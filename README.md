@@ -44,7 +44,7 @@ Tests:
 
         mvn clean test
 
-Requires Java 1.8+ and Maven 3.5.4+
+Requires Java 1.8 and Maven 3.5.4
 
 Exercises
 ---------
