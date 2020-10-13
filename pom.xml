@@ -44,7 +44,7 @@
     <version.com.google.jsinterop-annotations>1.0.1</version.com.google.jsinterop-annotations>
     <version.com.google.jsinterop-base>1.0.0-beta-1</version.com.google.jsinterop-base>
     <version.org.owasp.encoder>1.2</version.org.owasp.encoder>
-    <version.junit>4.11</version.junit>
+    <version.junit>4.13.1</version.junit>
     <version.com.google.gwt.gwtmockito>1.1.8</version.com.google.gwt.gwtmockito>
     <version.org.mockito>1.10.19</version.org.mockito>
   </properties>
