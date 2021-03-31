@@ -39,7 +39,7 @@
     <version.org.slf4j>1.7.26</version.org.slf4j>
     <version.javax.enterprise>1.2</version.javax.enterprise>
     <version.com.google.gwt>2.8.2</version.com.google.gwt>
-    <version.com.google.guava>25.0-jre</version.com.google.guava>
+    <version.com.google.guava>29.0-jre</version.com.google.guava>
     <version.com.google.elemental2>1.0.0-beta-1</version.com.google.elemental2>
     <version.com.google.jsinterop-annotations>1.0.1</version.com.google.jsinterop-annotations>
     <version.com.google.jsinterop-base>1.0.0-beta-1</version.com.google.jsinterop-base>
